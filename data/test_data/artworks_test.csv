@@ -1,0 +1,8 @@
+title,artist,description,purchase_price,sale_price,gross_appreciation_multiplier,gross_appreciation_period,url,has_image,image_url
+Untitled,JEAN MICHEL BASQUIAT (b. 1960 d. 1988),,$20.9K,$110.5M,"5,286.5x",33 years,https://test/untitled-1982-w:a1,True,https://test/a1.jpg
+Hollywood africans,JEAN MICHEL BASQUIAT (b. 1960 d. 1988),acrylic and oilstick on canvas,$1.2M,$4.5M,3.8x,5 years,https://test/hollywood-africans-1983-w:b2,True,https://test/b2.jpg
+Meules,CLAUDE MONET (b. 1840 d. 1926),oil on canvas,$2.5M,$110.7M,43.8x,33 years,https://test/meules-1890-w:c3,True,https://test/c3.jpg
+Mo seated,DAVID HOCKNEY (b. 1937),ink on paper,$4K,$47.9K,11.9x,38 years,https://test/mo-seated-1968-w:d4,False,
+title,artist,description,purchase_price,sale_price,gross_appreciation_multiplier,gross_appreciation_period,url,has_image,image_url
+Head,FRANCIS BACON (b. 1909 d. 1992),139.7 cm x 139.7 cm,$1.6M,$1.9M,1.2x,less than a year,https://test/head-w:e5,True,https://test/e5.jpg
+San lazzaro,ZAO WOU KI (b. 1920 d. 2013),lithograph,$378,$8.9K,23.5x,1 years,https://test/san-lazzaro-1975-w:f6,True,https://test/f6.jpg
